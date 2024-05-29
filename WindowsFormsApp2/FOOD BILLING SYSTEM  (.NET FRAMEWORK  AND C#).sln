@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food Billing System", "WindowsFormsApp2\Food Billing System.csproj", "{14893857-157F-4B1E-A873-78C625123520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14893857-157F-4B1E-A873-78C625123520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14893857-157F-4B1E-A873-78C625123520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14893857-157F-4B1E-A873-78C625123520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14893857-157F-4B1E-A873-78C625123520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1DD60CB-9E5E-413C-B2BD-A6CD3B59BE03}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\SHEKHAR SHARMA\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\SHEKHAR SHARMA\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\SHEKHAR SHARMA\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\SHEKHAR SHARMA\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\food billing system.csproj.AssemblyReference.cache
+C:\Users\SHEKHAR SHARMA\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\SHEKHAR SHARMA\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\SHEKHAR SHARMA\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\food billing system.csproj.GenerateResource.cache
+C:\Users\SHEKHAR SHARMA\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\food billing system.csproj.CoreCompileInputs.cache
+C:\Users\SHEKHAR SHARMA\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\SHEKHAR SHARMA\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
